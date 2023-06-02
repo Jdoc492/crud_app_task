@@ -10,7 +10,7 @@
 <body >
     <nav class="navbar navbar-light navbar-dark bg-dark">
         <div class="container-fluid">
-          <a class="navbar-brand">Task App</a>
+          <a class="navbar-brand">Task App jdoc services</a>
           <form class="d-flex">
             <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search" id="search">
             <button class="btn btn-outline-success" type="submit">Search</button>
